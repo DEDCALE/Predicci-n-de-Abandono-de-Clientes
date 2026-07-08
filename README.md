@@ -1,4 +1,4 @@
-# 📊 Predicción de Abandono de Clientes (Customer Churn)
+# 📊 Predicción de Abandono de Clientes 
 
 ## 📖 Descripción
 
@@ -109,27 +109,6 @@ En conclusión, **Random Forest** fue seleccionado como el modelo final, ya que 
 - Priorizar la atención proactiva de clientes en riesgo mediante soporte especializado.
 - Analizar las variables más importantes del modelo para comprender las principales causas del abandono.
 - Integrar el modelo en un proceso automatizado que permita monitorear continuamente el comportamiento de los clientes.
-
----
-
-## 📁 Estructura del proyecto
-
-```text
-📦 Customer-Churn-Prediction
-│
-├── 📂 datasets
-│   ├── contract.csv
-│   ├── personal.csv
-│   ├── internet.csv
-│   └── phone.csv
-│
-├── 📂 notebooks
-│   └── Customer_Churn_Prediction.ipynb
-│
-├── 📄 README.md
-├── 📄 requirements.txt
-└── 📄 LICENSE
-```
 
 ---
 
